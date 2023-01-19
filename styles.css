@@ -68,13 +68,13 @@ body {
     width: 30px;
     height: 30px;
     background: #fff;
-    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
     box-shadow: 6px -6px #222327;
 }
 
 .week li.current h1 {
     position: absolute;
-    transform: translateY();
+    transform: translateY(76px);
     font-size: 1.6em;
     color: #222327;
 }
